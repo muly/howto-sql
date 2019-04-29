@@ -1,1 +1,1 @@
-# howto-sql
+# sql
