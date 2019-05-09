@@ -9,7 +9,7 @@ values
 //TODO: need to add the values
 */
 
--- Output
+-- acceptance criteria:
 /*
 Country State
 //TODO: need to add output after the input values are added

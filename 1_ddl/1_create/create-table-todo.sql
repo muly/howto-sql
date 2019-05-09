@@ -4,7 +4,7 @@
 /*
 */
 
--- output: 
+-- acceptance criteria: 
 /*
 select id, name from student
 --above query should run without any schema errors

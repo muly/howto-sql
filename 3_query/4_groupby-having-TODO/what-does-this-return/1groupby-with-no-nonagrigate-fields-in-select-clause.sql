@@ -4,7 +4,7 @@
 /*
 */
 
--- output: 
+-- acceptance criteria: 
 /*
 */
 

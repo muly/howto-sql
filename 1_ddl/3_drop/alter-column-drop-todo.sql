@@ -5,7 +5,7 @@
 create table student (id int, name varchar(100), marks float)
 */
 
--- output: 
+-- acceptance criteria: 
 /*
 select marks from student
 -- below query should throw below schema error

@@ -5,7 +5,7 @@
 create table student (id int, name varchar(100), marks float)
 */
 
--- output: 
+-- acceptance criteria: 
 /*
 */
 

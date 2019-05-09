@@ -16,7 +16,7 @@ values
 (3, 'art')
 */
 
--- output
+-- acceptance criteria:
 /*
 B sci
 C sci

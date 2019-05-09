@@ -17,7 +17,7 @@ values
 */
 
 
--- output: need not be in the same order
+-- acceptance criteria: need not be in the same order
 /*
 A math
 A sci

@@ -5,7 +5,7 @@
 create table student (id int, name varchar(100))
 */
 
--- output: 
+-- acceptance criteria: 
 /*
 select * from students
 -- above query should run without any schema errors

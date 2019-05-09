@@ -16,7 +16,7 @@ values
 (10, 'J', 3)
 */
 
--- Output
+-- acceptance criteria:
 /*
 DeptID count
 1 4

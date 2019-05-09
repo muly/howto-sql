@@ -17,7 +17,7 @@ values
 (4, 'D')
 */
 
--- Output:
+-- acceptance criteria:
 /*
 1, A
 2, B

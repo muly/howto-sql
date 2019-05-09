@@ -13,7 +13,7 @@ values
 (4, 'D')
 */
 
--- output
+-- acceptance criteria:
 /*
 2
 3

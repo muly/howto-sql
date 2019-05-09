@@ -6,7 +6,7 @@ create table student (id int, name varchar(100))
 insert into student (id, name) values (1, 'A')
 */
 
--- output: 
+-- acceptance criteria: 
 /*
 select count(*) from student
 -- above query should return 0
