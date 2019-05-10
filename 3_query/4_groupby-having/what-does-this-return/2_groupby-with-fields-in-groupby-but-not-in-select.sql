@@ -1,3 +1,4 @@
+
 --task: what does this query return?
 
 -- schema sql:
@@ -19,15 +20,17 @@ values
 
 -- query:
 /*
-select count(*)
+select count(*) as cnt
 from Employee
 group by DeptID
 */
 
 -- Answer:
 /*
--- TODO: verify
-4
-3
-3
+prints the count of employees in each department, but will not show the department in the result set. 
+just the counts are displayed. like below
+    cnt
+    4
+    3
+    3
 */
